@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="18e204484f130300176d8fe18110c70c" sys_domain="global" table="x_147173_loaner_re_loaner_request" version="3" view="Mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>20e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>a0e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>24e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>a4e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>28e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>a8e3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_barcode</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:54:51</sys_created_on>
+            <sys_id>2ce3c8484f130300176d8fe18110c72c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_147173_loaner_re_loaner_request" sys_domain="global" view="bb0575721823320092c03796c3240322">18e204484f130300176d8fe18110c70c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:54:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_147173_loaner_re_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-22 15:50:28</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18e204484f130300176d8fe18110c70c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_147173_loaner_re_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_147173_loaner_re">a50cbed34f030300176d8fe18110c787</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Loaner Request">a50cbed34f030300176d8fe18110c787</sys_scope>
+            <sys_update_name>sys_ui_section_18e204484f130300176d8fe18110c70c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-22 15:50:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mobile" name="Mobile">bb0575721823320092c03796c3240322</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
