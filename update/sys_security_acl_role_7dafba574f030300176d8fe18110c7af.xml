@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-12-20 21:39:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7dafba574f030300176d8fe18110c7af</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_147173_loaner_re_loaner_request.x_147173_loaner_re.loaner_request_user</sys_name>
