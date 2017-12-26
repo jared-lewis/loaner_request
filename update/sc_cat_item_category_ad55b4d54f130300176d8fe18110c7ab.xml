@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Loaner Request">615570d54f130300176d8fe18110c7c7</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-26 16:43:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ad55b4d54f130300176d8fe18110c7ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_147173_loaner_re">a50cbed34f030300176d8fe18110c787</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Loaner Request">a50cbed34f030300176d8fe18110c787</sys_scope>
+        <sys_update_name>sc_cat_item_category_ad55b4d54f130300176d8fe18110c7ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-26 16:43:21</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

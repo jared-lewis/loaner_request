@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Loaner Task" language="en" table="x_147173_loaner_re_loaner_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Loaner Task</label>
+            <language>en</language>
+            <name>x_147173_loaner_re_loaner_task</name>
+            <plural>Loaner Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-25 18:14:38</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>d9a000094f530300176d8fe18110c76d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Task</sys_name>
+            <sys_package display_value="Loaner Request" source="x_147173_loaner_re">a50cbed34f030300176d8fe18110c787</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Loaner Request">a50cbed34f030300176d8fe18110c787</sys_scope>
+            <sys_update_name>sys_documentation_x_147173_loaner_re_loaner_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-25 18:14:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
